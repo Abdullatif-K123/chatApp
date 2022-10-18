@@ -1,8 +1,16 @@
 # React Real-Time Chat App
 
-## [Online Demo](https://ak-chat.netlify.app/register).
+### [Online Demo](https://ak-chat.netlify.app/register).
 
-## Available Scripts
+## About
+This is a real-time chat application built using React (Create React App on the frontend) and using firebase for Auth and database 
+first of all you have to register and then you can search for your friend or any user in the username section and then you can start your chat with the user
+
+##Tech Stack: 
+. Reactjs 
+. SASS
+. Firebase
+. React-router
 
 In the project directory, you can run:
 
