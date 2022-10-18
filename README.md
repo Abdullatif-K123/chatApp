@@ -6,9 +6,9 @@
 This is a real-time chat application built using React (Create React App on the frontend) and using firebase for Auth and database 
 first of all you have to register and then you can search for your friend or any user in the username section and then you can start your chat with the user
 
-##Tech Stack: 
-. Reactjs 
-. SASS
+## Tech Stack: 
+-- Reactjs 
+- SASS
 . Firebase
 . React-router
 
@@ -21,11 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
