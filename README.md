@@ -14,7 +14,7 @@ first of all you have to register and then you can search for your friend or any
 - Firebase-auth
 - Firebase-database
 ## How to use it
-you just need to make a firebase account and create a new project then copy the firebase config section and paste it in firebase.js code in firebaseConfig
+you just need to make a firebase account and create a new project then copy the firebase config section and paste it in firebase.js file in firebaseConfig
 In the project directory, you can run:
 
 ### `npm start`
