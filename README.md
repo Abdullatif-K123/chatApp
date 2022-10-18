@@ -1,6 +1,6 @@
 # React Real-Time Chat App
 
-[Online Demo](https://ak-chat.netlify.app/register).
+## [Online Demo](https://ak-chat.netlify.app/register).
 
 ## Available Scripts
 
