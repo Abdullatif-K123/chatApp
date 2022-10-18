@@ -7,10 +7,12 @@ This is a real-time chat application built using React (Create React App on the 
 first of all you have to register and then you can search for your friend or any user in the username section and then you can start your chat with the user
 
 ## Tech Stack: 
--- Reactjs 
+- Reactjs 
 - SASS
-. Firebase
-. React-router
+- Firebase
+- React-router
+- Firebase-auth
+- Firebase-database
 
 In the project directory, you can run:
 
