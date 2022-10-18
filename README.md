@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Real-Time Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Online Demo](https://ak-chat.netlify.app/register).
 
 ## Available Scripts
 
